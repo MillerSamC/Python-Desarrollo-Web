@@ -8,6 +8,7 @@
 <br><hr>
 <div align="center">
 En el contexto del taller final del modelo fotovoltaico, la estructura del entorno de desarrollo se presenta de la siguiente manera:
+</div>
 
 <br><hr>
 PV_Model
@@ -43,4 +44,4 @@ import base64
 - Se realiza la normalización de la Corriente (Impp) y la Potencia (P_max), seguido por la generación de gráficos y su visualización en la página web. Este enfoque técnico e ingenieril garantiza la representación precisa y eficiente de los resultados del modelo fotovoltaico en un formato accesible para el usuario final.
 <br><hr>
   
-</div>
+
