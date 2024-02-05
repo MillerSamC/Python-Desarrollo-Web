@@ -11,28 +11,28 @@ En el contexto del taller final del modelo fotovoltaico, la estructura del entor
 </div>
 
 <br><hr>
-PV_Model
-├─ templates
-│  ├─ index.html
-│  └─ results.html
-├
-├─ PV_Model.py
-└─ pv_data.db
+PV_Model<br>
+├─ templates<br>
+│  ├─ index.html<br>
+│  └─ results.html<br>
+├<br>
+├─ PV_Model.py<br>
+└─ pv_data.db<br>
 <br><hr>
 
 - Dentro del archivo principal en Python (PV_Model.py), se lleva a cabo la importación de las librerías esenciales para la implementación:
 
 <br><hr>
-import numpy as np
-from scipy.optimize import fsolve
-import pandas as pd
-import random
-import sqlite3
-from flask import Flask, request, render_template
-import matplotlib.pyplot as plt
-import io
-import base64
-<br><hr>
+import numpy as np<br>
+from scipy.optimize import fsolve<br>
+import pandas as pd<br>
+import random<br>
+import sqlite3<br>
+from flask import Flask, request, render_template<br>
+import matplotlib.pyplot as plt<br>
+import io<br>
+import base64<br>
+<br><hr><br
 
 
 - A continuación, se define la clase PVModel que encapsula la construcción del modelo fotovoltaico, basado en los principios establecidos en la tesis titulada "Control por modos deslizantes aplicado a un inversor de fuente de corriente monofásico conectado a la red".
