@@ -15,7 +15,7 @@ PV_Model<br>
 ├─ templates<br>
 │  ├─ index.html<br>
 │  └─ results.html<br>
-├<br>
+│<br>
 ├─ PV_Model.py<br>
 └─ pv_data.db<br>
 <br><hr>
