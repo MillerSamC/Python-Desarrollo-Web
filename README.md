@@ -32,7 +32,7 @@ from flask import Flask, request, render_template<br>
 import matplotlib.pyplot as plt<br>
 import io<br>
 import base64<br>
-<br><hr><br
+<br><hr>
 
 
 - A continuación, se define la clase PVModel que encapsula la construcción del modelo fotovoltaico, basado en los principios establecidos en la tesis titulada "Control por modos deslizantes aplicado a un inversor de fuente de corriente monofásico conectado a la red".
